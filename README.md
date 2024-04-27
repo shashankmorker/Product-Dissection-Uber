@@ -9,21 +9,19 @@
 
 # **CONTENTS:**
 
-**1. Problem Statement**
+**1. Company Overview**
 
-**2. Company Overview**
+**2. Product Dissection and Real-world Problems Solved by Uber**
 
-**3. Product Dissection and Real-world Problems Solved by Uber**
+**3. Uber Business Model**
 
-**4. Uber Business Model**
+**4. Real-World Problems and Uber's Innovative Solution**
 
-**5. Real-World Problems and Uber's Innovative Solution**
+**5. Schema Description and Relationship**
 
-**6. Schema Description and Relationship**
+**6. ER Diagram**
 
-**7. ER Diagram**
-
-**8. Conclusion**
+**7. Conclusion**
 
 ## **Purpose of Analysis:**
 
